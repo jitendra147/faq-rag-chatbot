@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# Data and model files
+data/ecommerce_faqs.json
+embeddings/
+offload/
+*.bin
+
+# Feedback data
+feedback.json
+
+# NLTK data
+nltk_data/
+
+# Streamlit cache
+.venv/
+streamlit_cache/
+

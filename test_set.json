@@ -1,0 +1,7 @@
+[
+    {"query": "How do I track my order?", "relevant_ids": [2]},
+    {"query": "How to reset password?", "relevant_ids": [0]},
+    {"query": "What is the return policy?", "relevant_ids": [3]},
+    {"query": "Can I change my shipping address?", "relevant_ids": [10]},
+    {"query": "Do you offer gift cards?", "relevant_ids": [14]}
+]
